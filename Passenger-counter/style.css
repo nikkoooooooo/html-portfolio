@@ -1,0 +1,53 @@
+body {
+text-align: center;
+
+
+}
+
+
+
+
+
+
+.container{
+background-image: url(station.jpg);
+background-size: cover;
+width: 300px;
+position: absolute;
+left: 40%;
+padding-bottom: 30px;
+border-radius: 5%;
+}
+
+h1 {
+font-family: sans-serif;
+color: white;
+}
+
+h2 {
+font-family: sans-serif;
+font-size: 50px;
+color: white;
+
+}
+
+button {
+width: 250px;
+margin-bottom: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 5px;
+border: none;
+
+
+}
+
+#increment-btn{
+background-color: darkred;
+}
+
+#decrement-btn{
+background-color: green;
+
+}
+
